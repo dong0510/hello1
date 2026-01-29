@@ -1,0 +1,5 @@
+{
+  "name": "Copy of QuantVista - NASDAQ Analysis MVP",
+  "description": "A professional-grade stock analysis platform focusing on NASDAQ equities. Features interactive candlestick charts, automated technical line identification, and real-time fundamental data analysis using Gemini AI with Google Search grounding.",
+  "requestFramePermissions": []
+}
